@@ -3,9 +3,9 @@
 ${browser} =  gc
 ${url} =  https://www.flipkart.com/
 ${mob_elem} =  xpath=//input[@class='_2IX_2- VJZDxU']
-${mob} =  7008448105
+${mob} =  
 ${pwd_elem} =  xpath=//input[@type='password']
-${pwd} =  Akash@5555
+${pwd} =  
 ${ect_elem} =  xpath=//div[text()='Electronics']
 ${search_bar} =  xpath=//input[@name='q']
 ${search_item} =  redmi note 6 pro
